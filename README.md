@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Back End
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 🌱 I’m currently learning HTML, CSS, JavaScript and TypeScript.
 - 📫 How to reach me: contatoallansaraiva@gmail.com
 - 🎮 Hobbies: playing video games, playing the guitar and reading.
 
