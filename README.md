@@ -1,10 +1,10 @@
 ## Hi! I'm Allan Saraiva 👋
 
 
-- 🔭 I’m currently working on Back End
-- 🌱 I’m currently learning HTML, CSS, JavaScript and TypeScript.
-- 📫 How to reach me: contatoallansaraiva@gmail.com
-- 🎮 Hobbies: playing video games, playing the guitar and reading.
+- 🔭 Atualmente estou trabalhando em Back End
+- 🌱 Estou aprendendo HTML, CSS, JavaScript and TypeScript.
+- 📫 Como me encontrar: contatoallansaraiva@gmail.com
+- 🎮 Hobbies: jogar videogames, tocar, ler e jogar xadrez.
 
   <div>
   <a href="https://github.com/rafaballerini">
