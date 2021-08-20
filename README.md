@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou trabalhando em Back End
-- 🌱 Estou aprendendo HTML, CSS, JavaScript and TypeScript.
+- 🌱 Estou aprendendo HTML, CSS, JavaScript e TypeScript.
 - 📫 Como me encontrar: contatoallansaraiva@gmail.com
 - 🎮 Hobbies: jogar videogames, tocar, ler e jogar xadrez.
 
